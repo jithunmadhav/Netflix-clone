@@ -1,15 +1,15 @@
 .banner{
-    background-image: url('/public/images/stranger-things-s4-1536x864.webp');
+   
     background-size: cover;
-    height: 850px;
-    margin-top: -60px;
+    height: 830px;
+    margin-top: 60px;
     background-repeat: no-repeat;
     color: white;
     
     
 }
 .content{
-    padding-top: 315px;
+    padding-top: 150px;
     text-align: left;
     padding-left: 40px;
 }
@@ -17,7 +17,7 @@
     font-family: 'Alfa Slab One', cursive;
     font-weight: bolder;
     font-size: 60px;
-    max-width: 50px;
+    max-width: 450px;
     letter-spacing: 3px;
     color: rgb(253, 253, 253);
 }
